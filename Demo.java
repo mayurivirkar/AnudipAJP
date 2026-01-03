@@ -1,5 +1,4 @@
-public class Demo {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
+
+interface Demo {
+    void m1();
 }
