@@ -19,8 +19,8 @@ public class eventHandeling {
         });
 
         frame.setLayout(null);
-        label.setBounds(100, 40, 100, 30);
-        button.setBounds(90, 80, 100, 30);
+        label.setBounds(100, 30, 100, 30);
+        button.setBounds(80, 70, 100, 30);
 
         frame.add(label);
         frame.add(button);
